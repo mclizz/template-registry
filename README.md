@@ -11,4 +11,5 @@ The API is a Cloudflare Worker that lives in [workers-site](./workers-site). Tha
 
 All the content that is served from the API lives in [templates](./templates)
 
-To contribute see [CONTRIBUTING](./CONTRIBUTING.md)
+To contribute see [CONTRIBUTING](./CONTRIBUTING.md)content/tooling/wrangler/configuration/environments.md
+
